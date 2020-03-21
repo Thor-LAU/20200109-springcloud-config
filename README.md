@@ -1,2 +1,2 @@
-# 20200109-springcloud-config
-分布式配置中心
+# repast-app-parent
+This is a phase II project (AAA二期项目)
